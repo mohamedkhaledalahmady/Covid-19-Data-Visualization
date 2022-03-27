@@ -20,4 +20,7 @@
      * daily --> to calculate daily data from cumulative one.
      * Calc_Global --> to calcualte Cumulative and Daily numbers of Cases and Deathes Globaly.
      * plotting _fun --> for visualize data (plotting).
+ > ## How to Run Program
+   * first download all files here, and put them in same directory in current folder in MATLAB
+   * can run program by push green button in bar in MATLAB GUI or writing progrma name in command window which in this case (**project**).
 > [Video](https://drive.google.com/drive/folders/1U_iMkxYNEtBgr9grcJr8qgA1Fual7h5F?usp=sharing)
