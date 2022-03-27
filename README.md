@@ -1,7 +1,6 @@
 # Covid-19-Data-Visualization
 Mohamed Khaled **Alahamdy**
 Ahmed Mohamed
-===== =======
 1. first
   * apple
   * orange
