@@ -1,5 +1,5 @@
 # Covid-19-Data-Visualization
-> ##About Project
+> ## About Project
   * The goal of this project to visualizes COVID-19 pandemic data. The data (obtained from the Coronavirus Resource Center at the Johns Hopkins University as a (.mat)       file. 
   * I use MATLAB GUIDE for this project, and GUI interface has many options can summarised it in following
     * A single figure for plotting, and its title informative displaying what country/state is being shown, and also  indicating the relevant options 
@@ -8,7 +8,7 @@
     * List box 2 --> showing all states of the currently selected country, with first option always **ALL**, and as most countries do not have states, regions,                                 territories or provinces.
     * Data_Plot group buttons --> to select what to plot: cases, deaths, or both (which means plot cases and deaths in same figure with 2 y-axis with difrrenet scals)
     * Options group buttons --> to select whether to plot cumulative data or daily numbers, and our database contains cumulative data, so part of our task to calculate                                   daily data
- > ##Table of Contents
+ > ## Table of Contents
    * covid_data.mat --> Database file which is contain data which we want to visualize it.
    * project.m --> Matlab file contain source file.
    * project.fig --> file contain our GUI widgets (components). as we know any gui project contain 2 fiels are (.m and .fig) files.
