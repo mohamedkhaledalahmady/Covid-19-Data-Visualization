@@ -19,5 +19,4 @@ end
 if ii == length(countery_colume)-1
           states_list=[states_list;"All"];
 end
-%%mohamed
 end
