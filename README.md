@@ -1,4 +1,11 @@
 ## Mohamed
+**Ahmed**
+_Mahmoud_
+~~This was mistack~~
+**Go To Zoo _Mohamed_ in Monday**
+> Text with a quote
+[Google](https://www.google.com/)
+
 ### Khaled
 #### Alahmady
 This is **bold** and this is _italic_
