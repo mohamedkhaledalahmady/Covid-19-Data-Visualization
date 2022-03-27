@@ -9,10 +9,10 @@
     * Data_Plot group buttons --> to select what to plot: cases, deaths, or both (which means plot cases and deaths in same figure with 2 y-axis with difrrenet scals)
     * Options group buttons --> to select whether to plot cumulative data or daily numbers, and our database contains cumulative data, so part of our task to calculate                                   daily data
  > Table of Contents
-   1. covid_data.mat --> Database file which is contain data which we want to visualize it.
-   2. project.m --> Matlab file contain source file.
-   3. project.fig --> file contain our GUI widgets (components). as we know any gui project contain 2 fiels are (.m and .fig) files.
-   4. all functions i implemented:
+   * covid_data.mat --> Database file which is contain data which we want to visualize it.
+   * project.m --> Matlab file contain source file.
+   * project.fig --> file contain our GUI widgets (components). as we know any gui project contain 2 fiels are (.m and .fig) files.
+   * all functions i implemented:
      * search_data.m --> to search for specific countery and return its states.
      * remove_duplicate.m --> take all column of countries in covid_data and remove duplicate counteries.
      * Global --> to calculate correct position of countries in original data (covid data).
