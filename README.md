@@ -8,8 +8,6 @@
     * List box 2 --> showing all states of the currently selected country, with first option always **ALL**, and as most countries do not have states, regions,                                 territories or provinces.
     * Data_Plot group buttons --> to select what to plot: cases, deaths, or both (which means plot cases and deaths in same figure with 2 y-axis with difrrenet scals)
     * Options group buttons --> to select whether to plot cumulative data or daily numbers, and our database contains cumulative data, so part of our task to calculate                                   daily data.
-    as in image
-     ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
  > ## Table of Contents
    * covid_data.mat --> Database file which is contain data which we want to visualize it.
    * project.m --> Matlab file contain source file.
