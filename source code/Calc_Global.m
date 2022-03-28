@@ -17,4 +17,5 @@ for count = 2 : length(Global_Cases_Cumulative)
    Global_Deathes_Daily = [Global_Deathes_Daily abs((Global_Deathes_Cumulative(count)-Global_Deathes_Cumulative(count-1)))];
    Global_Cases_Daily = [Global_Cases_Daily abs((Global_Cases_Cumulative(count)-Global_Cases_Cumulative(count-1)))];
 end
+%This Function
 end
