@@ -8,7 +8,7 @@
     * List box 2 --> showing all states of the currently selected country, with first option always **ALL**, and as most countries do not have states, regions,                                 territories or provinces.
     * Data_Plot group buttons --> to select what to plot: cases, deaths, or both (which means plot cases and deaths in same figure with 2 y-axis with difrrenet scals)
     * Options group buttons --> to select whether to plot cumulative data or daily numbers, and our database contains cumulative data, so part of our task to calculate                                   daily data.
-    ![GUI Screenshot](https://drive.google.com/file/d/1Wr2O6Wn8LsjVTLmIx7CpTzhoGfylEWIi/view?usp=sharing)
+    ![GUI Screenshot](https://drive.google.com/drive/folders/1V4oP_AEqu9VO3at-xSVmvwb2txeLALIm?usp=sharing)
  > ## Table of Contents
    * covid_data.mat --> Database file which is contain data which we want to visualize it.
    * project.m --> Matlab file contain source file.
