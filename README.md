@@ -10,10 +10,9 @@
     * Options group buttons --> to select whether to plot cumulative data or daily numbers, and our database contains cumulative data, so part of our task to calculate                                   daily data.
     
          ![Capture_edited](https://user-images.githubusercontent.com/67025780/160407938-397385d2-4f51-4259-b9d3-5f6ac4371fcd.jpg)
-        <div style="text-align: right;">
-            <img width = "300px" src="https://user-images.githubusercontent.com/67025780/160407938-397385d2-4f51-4259-b9d3-5f6ac4371fcd.jpg" alt="" style="align-                             items: center; ">
-        </div>
- 
+         <p align = "center">
+            <img width = "300px" src="https://user-images.githubusercontent.com/67025780/160407938-397385d2-4f51-4259-b9d3-5f6ac4371fcd.jpg" alt="">
+         </p>
 
    
  > ## Table of Contents
