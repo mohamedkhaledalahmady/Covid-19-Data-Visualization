@@ -11,7 +11,7 @@
     
          ![Capture_edited](https://user-images.githubusercontent.com/67025780/160407938-397385d2-4f51-4259-b9d3-5f6ac4371fcd.jpg)
         <div style="text-align: right;">
-            <img class="image-eye" src="https://user-images.githubusercontent.com/67025780/160407938-397385d2-4f51-4259-b9d3-5f6ac4371fcd.jpg" alt="" style="align-                             items: left; ">
+            <img width = "300px" src="https://user-images.githubusercontent.com/67025780/160407938-397385d2-4f51-4259-b9d3-5f6ac4371fcd.jpg" alt="" style="align-                             items: left; ">
         </div>
  
 
